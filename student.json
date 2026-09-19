@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Dauren",
+        "Age": 18,
+        "Course": 2,
+        "Grades": [
+            80,
+            90,
+            86
+        ]
+    },
+    {
+        "Name": "Asan",
+        "Age": 17,
+        "Course": 2,
+        "Grades": [
+            80,
+            70,
+            69
+        ]
+    },
+    {
+        "Name": "Jonh",
+        "Age": 20,
+        "Course": 2,
+        "Grades": [
+            50,
+            60,
+            40
+        ]
+    }
+]
